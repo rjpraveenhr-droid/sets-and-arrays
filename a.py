@@ -9,5 +9,5 @@ print(s1.difference(s2))#s1-s2 , common ele are removed from s1
 print(s1.symmetric_difference(s2))#combine ele of s1 and s2 and then remove common ele
 print(s1.union(s2))#all ele will be taken from both the sets
 print(s1.intersection(s2))#only common elements
-
-# creat 3 sets s1, s2, and s3 and do the above operations with each pair of sets
+ 
+#creat 3 sets s1, s2, and s3 and do the above operations with each pair of sets

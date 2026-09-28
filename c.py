@@ -29,4 +29,4 @@ print("Number of times 15 appears:", snack_counts.count(15))
 snack_counts.reverse()
 
 print("Reversed snack counts:", snack_counts)
-print("Total number of snacks counts:" len(snack_counts))
+print("Total number of snacks:", len(snack_counts))
